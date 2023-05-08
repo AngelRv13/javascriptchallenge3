@@ -53,14 +53,14 @@
   }
   
   const coWorker = new Programmer("ivan", "software engenieer", 23, [
-    "html",
-    "css",
+    "react",
+    "script",
     "javascript",
   ]);
   coWorker.allInfo();
   
-  const coWorker2 = new Programmer("osiel", "software engenieer", 30, [
-    "html",
+  const coWorker2 = new Programmer("osiel", "software engenieer teacher", 22, [
+    "react",
     "css",
     "javascript",
   ]);
